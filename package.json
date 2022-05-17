@@ -1,0 +1,22 @@
+{
+  "name": "bkeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieve70/bkeeper-final.git"
+  },
+  "author": "AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieve70/bkeeper-final/issues"
+  },
+  "homepage": "https://github.com/agnieve70/bkeeper-final#readme",
+  "dependencies": {
+    "vercel-php": "^0.5.1"
+  }
+}
